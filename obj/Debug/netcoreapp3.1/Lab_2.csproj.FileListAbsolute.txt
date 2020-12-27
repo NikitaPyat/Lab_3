@@ -1,0 +1,13 @@
+C:\Users\Pyata\OneDrive\Рабочий стол\Lab_2-main\bin\Debug\netcoreapp3.1\Lab_2.exe
+C:\Users\Pyata\OneDrive\Рабочий стол\Lab_2-main\bin\Debug\netcoreapp3.1\Lab_2.deps.json
+C:\Users\Pyata\OneDrive\Рабочий стол\Lab_2-main\bin\Debug\netcoreapp3.1\Lab_2.runtimeconfig.json
+C:\Users\Pyata\OneDrive\Рабочий стол\Lab_2-main\bin\Debug\netcoreapp3.1\Lab_2.runtimeconfig.dev.json
+C:\Users\Pyata\OneDrive\Рабочий стол\Lab_2-main\bin\Debug\netcoreapp3.1\Lab_2.dll
+C:\Users\Pyata\OneDrive\Рабочий стол\Lab_2-main\bin\Debug\netcoreapp3.1\Lab_2.pdb
+C:\Users\Pyata\OneDrive\Рабочий стол\Lab_2-main\obj\Debug\netcoreapp3.1\Lab_2.csprojAssemblyReference.cache
+C:\Users\Pyata\OneDrive\Рабочий стол\Lab_2-main\obj\Debug\netcoreapp3.1\Lab_2.AssemblyInfoInputs.cache
+C:\Users\Pyata\OneDrive\Рабочий стол\Lab_2-main\obj\Debug\netcoreapp3.1\Lab_2.AssemblyInfo.cs
+C:\Users\Pyata\OneDrive\Рабочий стол\Lab_2-main\obj\Debug\netcoreapp3.1\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\Pyata\OneDrive\Рабочий стол\Lab_2-main\obj\Debug\netcoreapp3.1\Lab_2.dll
+C:\Users\Pyata\OneDrive\Рабочий стол\Lab_2-main\obj\Debug\netcoreapp3.1\Lab_2.pdb
+C:\Users\Pyata\OneDrive\Рабочий стол\Lab_2-main\obj\Debug\netcoreapp3.1\Lab_2.genruntimeconfig.cache
